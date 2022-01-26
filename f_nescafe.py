@@ -3,7 +3,7 @@
 
 def store_data(item_list,file_name, delimiter = ';'):
     # Storing 
-    wd = '/Users/anikolic/Documents/Data/Web Scraping/'
+    wd = '/Users/l/Documents/Data/Web Scraping/'
     file_path = wd + file_name
 
     file = open(file_path, 'w')
